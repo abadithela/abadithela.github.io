@@ -36,6 +36,7 @@ Leveraging Classification Metrics for Quantitative System-level Analysis of Temp
 _60th IEEE Conference on Decision and Control, 2021_
 
 Analysis of the Heavy-ball Algorithm using Integral Quadratic Constraints \
+**Apurva Badithela** and Peter J. Seiler \
 _American Control Conference, 2019_ 
 
 ### Journal Papers
@@ -47,6 +48,6 @@ _Journal of Applied Energy, 2017_
 Minimally Constrained Testing for Autonomy with Temporal Logic Specifications \
 **Apurva Badithela<sup>*</sup>**, Josefine Graebener<sup>*</sup>, and Richard M. Murray \
 _Workshop on Envisioning an Infrastructure for Multi-Robot and Collaborative Autonomy Testing and Evaluation_ \
-_Robotics: Science and Systems (R:SS), 2022_ \
+_Robotics: Science and Systems (R:SS), 2022_ 
 
 <sup>*</sup>: Equal first authorship. 
