@@ -27,7 +27,26 @@ _Submitted to ICRA, 2023_
 ## Publications 
 
 ### Conference Papers
+Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems \
+Josefine Graebener<sup>*</sup>, **Apurva Badithela<sup>*</sup>**, and Richard M. Murray \
+_14th NASA Formal Method Symposium, 2022_
+
+Leveraging Classification Metrics for Quantitative System-level Analysis of Temporal Logic Specifications \
+**Apurva Badithela**, Tichakorn Wongpiromsarn, and Richard M. Murray \
+_60th IEEE Conference on Decision and Control, 2021_
+
+Analysis of the Heavy-ball Algorithm using Integral Quadratic Constraints \
+_American Control Conference, 2019_ 
 
 ### Journal Papers
+Dynamic Modeling of a Sensible Thermal Energy Storage Tank with an Immersed Coil Heat Exchanger under Three Operation Modes \
+Austin Nash, **Apurva Badithela**, and Neera Jain \
+_Journal of Applied Energy, 2017_
 
 ### Workshop Papers
+Minimally Constrained Testing for Autonomy with Temporal Logic Specifications \
+**Apurva Badithela<sup>*</sup>**, Josefine Graebener<sup>*</sup>, and Richard M. Murray \
+_Workshop on Envisioning an Infrastructure for Multi-Robot and Collaborative Autonomy Testing and Evaluation_ \
+_Robotics: Science and Systems (R:SS), 2022_ \
+
+<sup>*</sup>: Equal first authorship. 
