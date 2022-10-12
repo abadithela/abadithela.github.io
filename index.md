@@ -10,11 +10,11 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 ---
 You may reach me at apurva@caltech.edu.
  
-<a href="https://abadithela.github.io/pdfs/CV_oct_2022.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/sanae-lotfi-636825127), [Github](https://github.com/abadithela), Twitter: @ApurvaBadithela
+<a href="https://abadithela.github.io/pdf/CV_oct_2022.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/sanae-lotfi-636825127), [Github](https://github.com/abadithela), Twitter: @ApurvaBadithela
 <!-- Remove above link if you don't want to attibute -->
 
 ---
-### Under Review
+## Under Review
 Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows \
 **Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
 _Submitted to ICRA, 2023_
@@ -24,10 +24,10 @@ Evaluation Metrics for Object Detection for Autonomous Systems \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray \
 _Submitted to ICRA, 2023_
 
-### Publications 
+## Publications 
 
-## Conference Papers
+### Conference Papers
 
-## Journal Papers
+### Journal Papers
 
-## Workshop Papers
+### Workshop Papers
