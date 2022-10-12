@@ -17,37 +17,48 @@ You may reach me at apurva@caltech.edu.
 ## Under Review
 Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows \
 **Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
-_Submitted to International Conference Robotics and Automation (ICRA), 2023_
+_Submitted to International Conference Robotics and Automation (ICRA), 2023_ \
 [[preprint](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows), [code](https://github.com/abadithela/Flow-Constraints)]
 
 Evaluation Metrics for Object Detection for Autonomous Systems \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray \
-_Submitted to International Conference Robotics and Automation (ICRA), 2023_
+_Submitted to International Conference Robotics and Automation (ICRA), 2023_ \
+
 
 ## Publications 
 
 ### Conference Papers
 Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems \
 Josefine Graebener<sup>*</sup>, **Apurva Badithela<sup>*</sup>**, and Richard M. Murray \
-_14th NASA Formal Method Symposium, 2022_
+_14th NASA Formal Method Symposium, 2022_ \
+[[paper](https://arxiv.org/pdf/2204.02541), [code](https://github.com/jgraeb/MergeUnitTests)]
 
 Leveraging Classification Metrics for Quantitative System-level Analysis of Temporal Logic Specifications \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, and Richard M. Murray \
-_60th IEEE Conference on Decision and Control, 2021_
+_60th IEEE Conference on Decision and Control, 2021_ \
+[[paper](https://arxiv.org/pdf/2105.07343), [code](https://github.com/abadithela/validate_perception_metrics/tree/master)]
 
 Analysis of the Heavy-ball Algorithm using Integral Quadratic Constraints \
 **Apurva Badithela** and Peter J. Seiler \
-_American Control Conference, 2019_ 
+_American Control Conference, 2019_ \
+[[paper](https://ieeexplore.ieee.org/abstract/document/8814459)]
 
 ### Journal Papers
 Dynamic Modeling of a Sensible Thermal Energy Storage Tank with an Immersed Coil Heat Exchanger under Three Operation Modes \
 Austin Nash, **Apurva Badithela**, and Neera Jain \
-_Journal of Applied Energy, 2017_
+_Journal of Applied Energy, 2017_ \
+[[paper](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf)]
 
 ### Workshop Papers
 Minimally Constrained Testing for Autonomy with Temporal Logic Specifications \
 **Apurva Badithela<sup>*</sup>**, Josefine Graebener<sup>*</sup>, and Richard M. Murray \
 _Workshop on Envisioning an Infrastructure for Multi-Robot and Collaborative Autonomy Testing and Evaluation_ \
-_Robotics: Science and Systems (R:SS), 2022_ 
+_Robotics: Science and Systems (R:SS), 2022_ \
+[[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
+
+### Pre-Prints
+Synthesis of Static Test Environments for Generating Sequence-like Behaviors in Autonomous Systems \
+**Apurva Badithela** and Richard M. Murray \
+_Submitted to 13th NASA Formal Methods Symposium, 2021_
 
 <sup>*</sup>: Equal first authorship. 
