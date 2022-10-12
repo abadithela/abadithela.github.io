@@ -22,14 +22,14 @@ _Submitted to International Conference Robotics and Automation (ICRA), 2023_ \
 
 Evaluation Metrics for Object Detection for Autonomous Systems \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray \
-_Submitted to International Conference Robotics and Automation (ICRA), 2023_ \
+_Submitted to International Conference Robotics and Automation (ICRA), 2023_ 
 
 
 ## Publications 
 
 ### Conference Papers
 Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems \
-Josefine B. Graebener<sup>*</sup>, **Apurva Badithela<sup>*</sup>**, and Richard M. Murray \
+Josefine B. Graebener<sup>*</sup>, **Apurva Badithela**<sup>*</sup>, and Richard M. Murray \
 _14th NASA Formal Method Symposium, 2022_ \
 [[paper](https://arxiv.org/pdf/2204.02541), [code](https://github.com/jgraeb/MergeUnitTests)]
 
