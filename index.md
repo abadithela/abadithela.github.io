@@ -19,9 +19,10 @@ You may reach me at apurva@caltech.edu.
 * US-Japan Seminar on AI, Autonomy, Robotics, and Informatics, Oct 2022
 * Robotics: Science and Systems Workshop on Infrastructure for Test and Evaluation, Jun 2022
 * NASA Formal Methods Symposium, May 2022
+* VehiCAL Group Meeting Talk, UC Berkeley, Mar 2022
 * Conference on Decision and Control, Dec 2021
-* VehiCAL Group Meeting Talk, UC Berkeley Nov 2020
-* VehiCAL Group Meeting Talk, UC Berkeley Mar 2022
+* Research Seminar, Motional, Sept 2021
+* VehiCAL Group Meeting Talk, UC Berkeley, Nov 2020
 
 ---
 ## Under Review
