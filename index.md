@@ -27,12 +27,12 @@ You may reach me at apurva@caltech.edu.
 ---
 
 ## Under Review
-[Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows(https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows)] \
+[Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows) \
 **Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
 _Submitted to International Conference Robotics and Automation (ICRA), 2023_ \
 [[preprint](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows), [code](https://github.com/abadithela/Flow-Constraints)]
 
-[Evaluation Metrics for Object Detection for Autonomous Systems (https://arxiv.org/pdf/2210.10298.pdf)] \
+[Evaluation Metrics for Object Detection for Autonomous Systems](https://arxiv.org/pdf/2210.10298.pdf) \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray \
 _Submitted to International Conference Robotics and Automation (ICRA), 2023_ 
 [[preprint](https://arxiv.org/pdf/2210.10298.pdf), [code](https://github.com/abadithela/Dist-ConfusionMtrx)]
@@ -41,29 +41,29 @@ _Submitted to International Conference Robotics and Automation (ICRA), 2023_
 ## Publications 
 
 ### Conference Papers
-[Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems(https://arxiv.org/pdf/2204.02541)] \
+[Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems](https://arxiv.org/pdf/2204.02541) \
 Josefine B. Graebener*, Apurva Badithela*, and Richard M. Murray \
 _14th NASA Formal Method Symposium, 2022_ \
 [[paper](https://arxiv.org/pdf/2204.02541), [code](https://github.com/jgraeb/MergeUnitTests)]
 
-[Leveraging Classification Metrics for Quantitative System-level Analysis of Temporal Logic Specifications(https://arxiv.org/pdf/2105.07343)] \
+[Leveraging Classification Metrics for Quantitative System-level Analysis of Temporal Logic Specifications](https://arxiv.org/pdf/2105.07343) \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, and Richard M. Murray \
 _60th IEEE Conference on Decision and Control, 2021_ \
 [[paper](https://arxiv.org/pdf/2105.07343), [code](https://github.com/abadithela/validate_perception_metrics/tree/master)]
 
-[Analysis of the Heavy-ball Algorithm using Integral Quadratic Constraints(https://ieeexplore.ieee.org/abstract/document/8814459)] \
+[Analysis of the Heavy-ball Algorithm using Integral Quadratic Constraints](https://ieeexplore.ieee.org/abstract/document/8814459) \
 **Apurva Badithela** and Peter J. Seiler \
 _American Control Conference, 2019_ \
 [[paper](https://ieeexplore.ieee.org/abstract/document/8814459)]
 
 ### Journal Papers
-[Dynamic Modeling of a Sensible Thermal Energy Storage Tank with an Immersed Coil Heat Exchanger under Three Operation Modes(https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf)] \
+[Dynamic Modeling of a Sensible Thermal Energy Storage Tank with an Immersed Coil Heat Exchanger under Three Operation Modes](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf) \
 Austin Nash, **Apurva Badithela**, and Neera Jain \
 _Journal of Applied Energy, 2017_ \
 [[paper](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf)]
 
 ### Workshop Papers
-[Minimally Constrained Testing for Autonomy with Temporal Logic Specifications(http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)] \
+[Minimally Constrained Testing for Autonomy with Temporal Logic Specifications](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf) \
 **Apurva Badithela<sup>*</sup>**, Josefine Graebener<sup>*</sup>, and Richard M. Murray \
 _Workshop on Envisioning an Infrastructure for Multi-Robot and Collaborative Autonomy Testing and Evaluation_ \
 _Robotics: Science and Systems (R:SS), 2022_ \
