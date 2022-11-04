@@ -14,6 +14,16 @@ You may reach me at apurva@caltech.edu.
 <!-- Remove above link if you don't want to attibute -->
 
 ---
+## Talks
+* 40th SoCal Controls Workshop, Oct 2022
+* US-Japan Seminar on AI, Autonomy, Robotics, and Informatics, Oct 2022
+* Robotics: Science and Systems Workshop on Infrastructure for Test and Evaluation, Jun 2022
+* NASA Formal Methods Symposium, May 2022
+* Conference on Decision and Control, Dec 2021
+* VehiCAL Group Meeting Talk, UC Berkeley Nov 2020
+* VehiCAL Group Meeting Talk, UC Berkeley Mar 2022
+
+---
 ## Under Review
 Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows \
 **Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
