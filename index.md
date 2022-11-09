@@ -10,7 +10,7 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 ---
 You may reach me at apurva@caltech.edu.
  
-<a href="https://abadithela.github.io/pdf/CV_oct_2022.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Twitter: @ApurvaBadithela
+<a href="https://abadithela.github.io/pdf/CurrVitae_nov_2022.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Twitter: @ApurvaBadithela
 <!-- Remove above link if you don't want to attibute -->
 
 ---
