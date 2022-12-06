@@ -1,5 +1,5 @@
 I am a fifth-year PhD student in Control and Dynamical Systems at California Institute of Technology. I am advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). 
-I am interested in formal methods, robotics, and verification, validation, and testing of autonomous and cyber-physical systems. My research is on 
+I am interested in formal methods, robotics, verification and validation, and testing of autonomous cyber-physical systems. My research is on 
 developing theory, algorithms, and experiments for the use of formal methods in automated test-case generation for autonomous systems. In particular, my
 current work focuses on reactively testing the discrete decision-making behavior in safety-critical autonomous systems. 
 
