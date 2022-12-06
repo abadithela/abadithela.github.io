@@ -8,7 +8,6 @@ I also spent the summer of 2021 at [Motional](https://motional.com) as an Autono
 Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff](http://www.ericmwolff.com) and Dr. [Tung Phan-Minh](https://www.linkedin.com/in/tungmphan). At Motional, I worked on Counter-example Guided Repair of Learning-based Planners using Optimization and Bayesian inference techniques.
 
 ---
-You may reach me at apurva@caltech.edu.
  
 <a href="https://abadithela.github.io/pdf/CurrVitae_nov22.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Twitter: @ApurvaBadithela
 <!-- Remove above link if you don't want to attibute -->
