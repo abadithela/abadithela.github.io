@@ -11,7 +11,7 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 
 ---
  
-<a href="https://abadithela.github.io/pdf/CurrVitae_nov22.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Twitter: @ApurvaBadithela
+<a href="https://abadithela.github.io/pdf/CurrVitae.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Twitter: @ApurvaBadithela
 <!-- Remove above link if you don't want to attibute -->
 
 ---
