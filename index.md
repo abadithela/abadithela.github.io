@@ -38,7 +38,7 @@ Evaluation Metrics of Object Detection for Quantitative System-Level Analysis of
 ### Conference Papers
 Reasoning over Test Specifications using Assume-Guarantee Contracts \
 **Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Inigo Incer<sup>*</sup>,  and Richard M. Murray \
-_15th NASA Formal Methods Symposium, 2023_ \
+_15th NASA Formal Methods Symposium, 2023_ 
 
 [Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows) \
 **Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
