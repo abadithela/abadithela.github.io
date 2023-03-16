@@ -28,23 +28,26 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 ---
 
 ## Under Review
-[Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows) \
-**Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
-_Submitted to International Conference Robotics and Automation (ICRA), 2023_ \
-[[preprint](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows), [code](https://github.com/abadithela/Flow-Constraints)]
-
-[Evaluation Metrics for Object Detection for Autonomous Systems](https://arxiv.org/pdf/2210.10298.pdf) \
+Evaluation Metrics of Object Detection for Quantitative System-Level Analysis of Autonomous Systems \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray \
-_Submitted to International Conference Robotics and Automation (ICRA), 2023_ 
-[[preprint](https://arxiv.org/pdf/2210.10298.pdf), [code](https://github.com/abadithela/Dist-ConfusionMtrx)]
+
 
 ---
 ## Publications 
 
 ### Conference Papers
+Reasoning over Test Specifications using Assume-Guarantee Contracts \
+**Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Inigo Incer<sup>*</sup>,  and Richard M. Murray \
+_15th NASA Formal Methods Symposium, 2023_ \
+
+[Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows) \
+**Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
+_IEEE International Conference Robotics and Automation (ICRA), 2023_ \
+[[preprint](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows), [code](https://github.com/abadithela/Flow-Constraints)]
+
 [Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems](https://arxiv.org/pdf/2204.02541) \
 Josefine B. Graebener<sup>*</sup>, **Apurva Badithela<sup>*</sup>**, and Richard M. Murray \
-_14th NASA Formal Method Symposium, 2022_ \
+_14th NASA Formal Methods Symposium, 2022_ \
 [[paper](https://arxiv.org/pdf/2204.02541), [code](https://github.com/jgraeb/MergeUnitTests)]
 
 [Leveraging Classification Metrics for Quantitative System-level Analysis of Temporal Logic Specifications](https://arxiv.org/pdf/2105.07343) \
