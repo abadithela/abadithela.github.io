@@ -29,7 +29,7 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 
 ## Under Review
 Evaluation Metrics of Object Detection for Quantitative System-Level Analysis of Autonomous Systems \
-**Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray \
+**Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray 
 
 
 ---
