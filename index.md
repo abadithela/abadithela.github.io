@@ -1,8 +1,8 @@
 I am a fifth-year PhD student in Control and Dynamical Systems at California Institute of Technology. I am advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). My research interests are in formal methods, robotics, verification and validation, and testing of autonomous cyber-physical systems. 
 
 My PhD research is on using formal methods for Test and Evaluation (T&E), and Verification and Validation (V&V) of autonomous systems. In particular, my dissertation research is focused on:
-1) Reactive test synthesis from temporal logic specifications 
-2) Validating perception performance with respect to system-level temporal logic specifications 
+1) Reactive test synthesis from temporal logic specifications, and
+2) Validating perception performance with respect to system-level temporal logic specifications.
 
 Before Caltech, I earned my Bachelors degree in Aerospace Engineering and Mechanics at the University of Minnesota, Twin-Cities in 2018. As an undergraduate, I was fortunate to conduct research with Professor [Peter Seiler](https://seiler.engin.umich.edu), Professor [Neera Jain](https://engineering.purdue.edu/JainResearchLab/people.html) and Professor [Austin Nash](https://www.linkedin.com/in/austin-nash-23805919a), and Professor [Ufuk Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page) and Dr. [Ivan Papusha](https://ivanpapusha.com). 
 
