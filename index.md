@@ -26,16 +26,13 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 * VehiCAL Group Meeting Talk, UC Berkeley, Nov 2020
 
 ---
-
-## Under Review
-Evaluation Metrics of Object Detection for Quantitative System-Level Analysis of Autonomous Systems \
-**Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray 
-
-
----
 ## Publications 
 
 ### Conference Papers
+Evaluation Metrics of Object Detection for Quantitative System-Level Analysis of Autonomous Systems \
+**Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray \
+_IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023_ 
+
 Reasoning over Test Specifications using Assume-Guarantee Contracts \
 **Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Inigo Incer<sup>*</sup>,  and Richard M. Murray \
 _15th NASA Formal Methods Symposium, 2023_ 
