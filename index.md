@@ -1,4 +1,4 @@
-I am a fifth-year PhD student in Control and Dynamical Systems at California Institute of Technology. I am advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). My research interests are in formal methods, robotics, verification and validation, and testing of autonomous cyber-physical systems. 
+I am a final year PhD student in Control and Dynamical Systems at California Institute of Technology. I am advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). My research interests are in formal methods, robotics, verification and validation, and testing of autonomous cyber-physical systems. 
 
 My PhD research is on using formal methods for Test and Evaluation (T&E), and Verification and Validation (V&V) of autonomous systems. In particular, my dissertation research is focused on:
 1) Reactive test synthesis from temporal logic specifications, and
@@ -16,6 +16,11 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 
 ---
 ## Talks
+* University of Michigan, Ann Arbor, Oct 2023. I had a great time meeting fellow PhD students and visiting the University of Michigan! Thanks to Professors Nechmiye Ozay and Pete Seiler for hosting me. 
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct 2023
+* IEEE International Conference on Robotics and Automation (ICRA), June 2023
+* CPS-IoT Week The International Workshop on Perception for Safety-Critical Cyber-Physical Systems, May 2023
+* National Institute of Informatics (NII), Tokyo, Dec 2022. Thanks to Ichiro Hasuo for inviting me!
 * 40th SoCal Controls Workshop, Oct 2022
 * US-Japan Seminar on AI, Autonomy, Robotics, and Informatics, Oct 2022
 * Robotics: Science and Systems Workshop on Infrastructure for Test and Evaluation, Jun 2022
