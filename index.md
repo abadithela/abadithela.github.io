@@ -32,6 +32,7 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
   
 ---
 ## Preprints
+
 [Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design](https://arxiv.org/pdf/2303.17751.pdf) \
 Inigo Incer, **Apurva Badithela**, Josefine Graebener, Piergiuseppe Mallozzi, Ayush Pandey, Sheng-Jung Yu, Albert Beneveniste, Benoit Caillud, Richard M. Murray, Alberto Sangiovanni-Vincentelli, and Sanjit Seshia \
 Submitted to ACM Transactions on Cyber-Physical Systems (T-CPS)\
