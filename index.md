@@ -11,7 +11,7 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 
 ---
  
-<a href="https://abadithela.github.io/pdf/CurrVitae.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Email: apurva@caltech.edu
+<a href="https://abadithela.github.io/pdf/Badithela, Apurva -CV.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Email: apurva@caltech.edu
 <!-- Remove above link if you don't want to attibute -->
 
 ---
@@ -29,23 +29,30 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 * Conference on Decision and Control, Dec 2021
 * Research Seminar, Motional, Sept 2021
 * VehiCAL Group Meeting Talk, UC Berkeley, Nov 2020
+---
+## Preprints
+[Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design](https://arxiv.org/pdf/2303.17751.pdf) \
+Inigo Incer, **Apurva Badithela**, Josefine Graebener, Piergiuseppe Mallozzi, Ayush Pandey, Sheng-Jung Yu, Albert Beneveniste, Benoit Caillud, Richard M. Murray, Alberto Sangiovanni-Vincentelli, and Sanjit Seshia \
+Submitted to ACM Transactions on Cyber-Physical Systems (T-CPS)\
+[[preprint](https://arxiv.org/pdf/2303.17751.pdf), [tool](https://www.pacti.org)]
 
 ---
 ## Publications 
 
-### Conference Papers
-Evaluation Metrics of Object Detection for Quantitative System-Level Analysis of Autonomous Systems \
+[Evaluation Metrics of Object Detection for Quantitative System-Level Analysis of Autonomous Systems](https://abadithela.github.io/pdf/IROS2023__Evaluation_Metrics_for_Object_Detection.pdf) \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, Richard M. Murray \
-_IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023_ 
+_IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023_ \
+[[paper](https://abadithela.github.io/pdf/IROS2023__Evaluation_Metrics_for_Object_Detection.pdf)]
 
-Reasoning over Test Specifications using Assume-Guarantee Contracts \
-**Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Inigo Incer<sup>*</sup>,  and Richard M. Murray \
-_15th NASA Formal Methods Symposium, 2023_ 
+[Reasoning over Test Specifications using Assume-Guarantee Contracts](https://link.springer.com/content/pdf/10.1007/978-3-031-33170-1_17.pdf) \
+**Apurva Badithela<sup>*</sup>**, Josefine B. Graebener <sup>*</sup>, Inigo Incer <sup>*</sup>,  and Richard M. Murray \
+_15th NASA Formal Methods Symposium, 2023_ \
+[[paper](https://link.springer.com/content/pdf/10.1007/978-3-031-33170-1_17.pdf)]
 
-[Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows) \
+[Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows](https://abadithela.github.io/pdf/ICRA2023__Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems____Testing_Reach_Avoid_Specifications_with_Multi_Commodity_Flows.pdf) \
 **Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
 _IEEE International Conference Robotics and Automation (ICRA), 2023_ \
-[[preprint](https://murray.cds.caltech.edu/Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems:_Testing_Reach-Avoid_Specifications_with_Multi-Commodity_Flows), [code](https://github.com/abadithela/Flow-Constraints)]
+[[paper](https://abadithela.github.io/pdf/ICRA2023__Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems____Testing_Reach_Avoid_Specifications_with_Multi_Commodity_Flows.pdf), [code](https://github.com/abadithela/Flow-Constraints)]
 
 [Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems](https://arxiv.org/pdf/2204.02541) \
 Josefine B. Graebener<sup>*</sup>, **Apurva Badithela<sup>*</sup>**, and Richard M. Murray \
@@ -62,22 +69,16 @@ _60th IEEE Conference on Decision and Control, 2021_ \
 _American Control Conference, 2019_ \
 [[paper](https://ieeexplore.ieee.org/abstract/document/8814459)]
 
-### Journal Papers
 [Dynamic Modeling of a Sensible Thermal Energy Storage Tank with an Immersed Coil Heat Exchanger under Three Operation Modes](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf) \
 Austin Nash, **Apurva Badithela**, and Neera Jain \
 _Journal of Applied Energy, 2017_ \
 [[paper](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf)]
 
-### Workshop Papers
+## Workshop Papers
 [Minimally Constrained Testing for Autonomy with Temporal Logic Specifications](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf) \
 **Apurva Badithela<sup>*</sup>**, Josefine Graebener<sup>*</sup>, and Richard M. Murray \
 _Workshop on Envisioning an Infrastructure for Multi-Robot and Collaborative Autonomy Testing and Evaluation_ \
 _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
-
-### Pre-Prints
-Synthesis of Static Test Environments for Generating Sequence-like Behaviors in Autonomous Systems \
-**Apurva Badithela** and Richard M. Murray \
-_Submitted to 13th NASA Formal Methods Symposium, 2021_
 
 <sup>*</sup>: Equal first authorship. 
