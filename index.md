@@ -48,7 +48,7 @@ _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 202
 
 [Reasoning over Test Specifications using Assume-Guarantee Contracts](https://link.springer.com/content/pdf/10.1007/978-3-031-33170-1_17.pdf) \
 **Apurva Badithela***, Josefine B. Graebener*, Inigo Incer*,  and Richard M. Murray \
-_15th NASA Formal Methods Symposium, 2023_ \
+_Proceedings of the 15th NASA Formal Methods (NFM), 2023, pp 278-294._ \
 [[paper](https://link.springer.com/content/pdf/10.1007/978-3-031-33170-1_17.pdf)]
 
 [Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows](https://abadithela.github.io/pdf/ICRA2023__Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems____Testing_Reach_Avoid_Specifications_with_Multi_Commodity_Flows.pdf) \
@@ -58,7 +58,7 @@ _IEEE International Conference Robotics and Automation (ICRA), 2023_ \
 
 [Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems](https://arxiv.org/pdf/2204.02541) \
 Josefine B. Graebener*, **Apurva Badithela***, and Richard M. Murray \
-_14th NASA Formal Methods Symposium, 2022_ \
+_Proceedings of the 14th NASA Formal Methods (NFM), 2022, pp 133-155._ \
 [[paper](https://arxiv.org/pdf/2204.02541), [code](https://github.com/jgraeb/MergeUnitTests)]
 
 [Leveraging Classification Metrics for Quantitative System-level Analysis of Temporal Logic Specifications](https://arxiv.org/pdf/2105.07343) \
