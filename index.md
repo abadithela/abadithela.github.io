@@ -45,17 +45,17 @@ _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 202
 [[paper](https://abadithela.github.io/pdf/IROS2023__Evaluation_Metrics_for_Object_Detection.pdf)]
 
 [Reasoning over Test Specifications using Assume-Guarantee Contracts](https://link.springer.com/content/pdf/10.1007/978-3-031-33170-1_17.pdf) \
-**Apurva Badithela<sup>*</sup>**, Josefine B. Graebener <sup>*</sup>, Inigo Incer <sup>*</sup>,  and Richard M. Murray \
+**Apurva Badithela***, Josefine B. Graebener*, Inigo Incer*,  and Richard M. Murray \
 _15th NASA Formal Methods Symposium, 2023_ \
 [[paper](https://link.springer.com/content/pdf/10.1007/978-3-031-33170-1_17.pdf)]
 
 [Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows](https://abadithela.github.io/pdf/ICRA2023__Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems____Testing_Reach_Avoid_Specifications_with_Multi_Commodity_Flows.pdf) \
-**Apurva Badithela<sup>*</sup>**, Josefine B. Graebener<sup>*</sup>, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
+**Apurva Badithela***, Josefine B. Graebener*, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, Richard M. Murray \
 _IEEE International Conference Robotics and Automation (ICRA), 2023_ \
 [[paper](https://abadithela.github.io/pdf/ICRA2023__Synthesizing_Reactive_Test_Environments_for_Autonomous_Systems____Testing_Reach_Avoid_Specifications_with_Multi_Commodity_Flows.pdf), [code](https://github.com/abadithela/Flow-Constraints)]
 
 [Towards Better Test Coverage: Merging Unit Tests for Autonomous Systems](https://arxiv.org/pdf/2204.02541) \
-Josefine B. Graebener<sup>*</sup>, **Apurva Badithela<sup>*</sup>**, and Richard M. Murray \
+Josefine B. Graebener*, **Apurva Badithela***, and Richard M. Murray \
 _14th NASA Formal Methods Symposium, 2022_ \
 [[paper](https://arxiv.org/pdf/2204.02541), [code](https://github.com/jgraeb/MergeUnitTests)]
 
@@ -81,4 +81,4 @@ _Workshop on Envisioning an Infrastructure for Multi-Robot and Collaborative Aut
 _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
-<sup>*</sup>: Equal first authorship. 
+**<sup>*</sup>**: Equal authorship. 
