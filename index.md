@@ -61,15 +61,15 @@ Josefine B. Graebener*, **Apurva Badithela***, and Richard M. Murray \
 _Proceedings of the 14th NASA Formal Methods (NFM), 2022, pp 133-155._ \
 [[paper](https://arxiv.org/pdf/2204.02541), [code](https://github.com/jgraeb/MergeUnitTests)]
 
-[Leveraging Classification Metrics for Quantitative System-level Analysis of Temporal Logic Specifications](https://arxiv.org/pdf/2105.07343) \
+[Leveraging Classification Metrics for Quantitative System-level Analysis of Temporal Logic Specifications](https://abadithela.github.io/pdf/CDC21__Validating_Perception_Algorithms_with_High_level_Formal_Requirements.pdf) \
 **Apurva Badithela**, Tichakorn Wongpiromsarn, and Richard M. Murray \
 _60th IEEE Conference on Decision and Control, 2021_ \
-[[paper](https://arxiv.org/pdf/2105.07343), [code](https://github.com/abadithela/validate_perception_metrics/tree/master)]
+[[paper](https://abadithela.github.io/pdf/CDC21__Validating_Perception_Algorithms_with_High_level_Formal_Requirements.pdf), [code](https://github.com/abadithela/validate_perception_metrics/tree/master)]
 
-[Analysis of the Heavy-ball Algorithm using Integral Quadratic Constraints](https://ieeexplore.ieee.org/abstract/document/8814459) \
+[Analysis of the Heavy-ball Algorithm using Integral Quadratic Constraints](https://abadithela.github.io/pdf/PS_AB_ACC_2019.pdf) \
 **Apurva Badithela** and Peter J. Seiler \
 _American Control Conference, 2019_ \
-[[paper](https://ieeexplore.ieee.org/abstract/document/8814459)]
+[[paper](https://abadithela.github.io/pdf/PS_AB_ACC_2019.pdf)]
 
 [Dynamic Modeling of a Sensible Thermal Energy Storage Tank with an Immersed Coil Heat Exchanger under Three Operation Modes](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf) \
 Austin Nash, **Apurva Badithela**, and Neera Jain \
