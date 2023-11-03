@@ -34,7 +34,7 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 ## Preprints
 
 [Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design](https://arxiv.org/pdf/2303.17751.pdf) \
-Inigo Incer, **Apurva Badithela**, Josefine Graebener, Piergiuseppe Mallozzi, Ayush Pandey, Sheng-Jung Yu, Albert Beneveniste, Benoit Caillud, Richard M. Murray, Alberto Sangiovanni-Vincentelli, and Sanjit Seshia \
+Inigo Incer, <b>Apurva Badithela</b>, Josefine Graebener, Piergiuseppe Mallozzi, Ayush Pandey, Sheng-Jung Yu, Albert Beneveniste, Benoit Caillud, Richard M. Murray, Alberto Sangiovanni-Vincentelli, and Sanjit Seshia \
 Submitted to ACM Transactions on Cyber-Physical Systems (T-CPS)\
 [[preprint](https://arxiv.org/pdf/2303.17751.pdf), [tool](https://www.pacti.org)]
 
@@ -67,12 +67,12 @@ _60th IEEE Conference on Decision and Control, 2021_ \
 [[paper](https://abadithela.github.io/pdf/CDC21__Validating_Perception_Algorithms_with_High_level_Formal_Requirements.pdf), [code](https://github.com/abadithela/validate_perception_metrics/tree/master)]
 
 [Analysis of the Heavy-ball Algorithm using Integral Quadratic Constraints](https://abadithela.github.io/pdf/PS_AB_ACC_2019.pdf) \
-**Apurva Badithela** and Peter J. Seiler \
+<b>Apurva Badithela</b> and Peter J. Seiler \
 _American Control Conference, 2019_ \
 [[paper](https://abadithela.github.io/pdf/PS_AB_ACC_2019.pdf)]
 
 [Dynamic Modeling of a Sensible Thermal Energy Storage Tank with an Immersed Coil Heat Exchanger under Three Operation Modes](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf) \
-Austin Nash, **Apurva Badithela**, and Neera Jain \
+Austin Nash, <b>Apurva Badithela</b>, and Neera Jain \
 _Journal of Applied Energy, 2017_ \
 [[paper](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf)]
 
@@ -83,4 +83,4 @@ _Workshop on Envisioning an Infrastructure for Multi-Robot and Collaborative Aut
 _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
-**<sup>*</sup>**: Equal authorship. 
+<b>\*</b>: Equal authorship. 
