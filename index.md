@@ -16,7 +16,7 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 
 ---
 ## Talks
-* University of Michigan, Ann Arbor, Oct 2023. I had a great time meeting fellow PhD students and visiting the University of Michigan! Thanks to Professors Nechmiye Ozay and Pete Seiler for hosting me. 
+* University of Michigan, Ann Arbor, Oct 2023. I had a great time meeting fellow PhD students and visiting the University of Michigan! Thanks to Professors Necmiye Ozay and Pete Seiler for hosting me. 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct 2023
 * IEEE International Conference on Robotics and Automation (ICRA), June 2023
 * CPS-IoT Week The International Workshop on Perception for Safety-Critical Cyber-Physical Systems, May 2023
