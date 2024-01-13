@@ -11,24 +11,28 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 
 ---
  
-<a href="https://abadithela.github.io/pdf/Badithela, Apurva -CV.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Email: apurva@caltech.edu
+<a href="https://abadithela.github.io/pdf/CV.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Email: apurva@caltech.edu
 <!-- Remove above link if you don't want to attibute -->
 
 ---
 ## Talks
-* University of Michigan, Ann Arbor, Oct 2023. I had a great time meeting fellow PhD students and visiting the University of Michigan! Thanks to Professors Necmiye Ozay and Pete Seiler for hosting me. 
-* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct 2023
-* IEEE International Conference on Robotics and Automation (ICRA), June 2023
-* CPS-IoT Week The International Workshop on Perception for Safety-Critical Cyber-Physical Systems, May 2023
-* National Institute of Informatics (NII), Tokyo, Dec 2022. Thanks to Ichiro Hasuo for inviting me!
-* 40th SoCal Controls Workshop, Oct 2022
-* US-Japan Seminar on AI, Autonomy, Robotics, and Informatics, Oct 2022
-* Robotics: Science and Systems Workshop on Infrastructure for Test and Evaluation, Jun 2022
-* NASA Formal Methods Symposium, May 2022
-* VehiCAL Group Meeting Talk, UC Berkeley, Mar 2022
-* Conference on Decision and Control, Dec 2021
-* Research Seminar, Motional, Sept 2021
-* VehiCAL Group Meeting Talk, UC Berkeley, Nov 2020
+* Nov 2023: Toyota Motor North America R&D. Toyota Research Institute, North America (TRINA). Virtual Seminar.
+* Nov 2023: Autonomous Systems Lab, Stanford University, Nov 2023. Thanks to the ASL Lab and Professor Marco Pavone for hosting me! 
+* Nov 2023: ECE Department Seminar, University of Michigan, Ann Arbor, Nov 2023.
+* Nov 2023: Intelligent Robot Motion Lab (IRoM), Princeton University, Nov 2023. I had a wonderful time visiting Princeton and meeting students at the IRoM Lab. Thanks to Professor Ani Majumdar for hosting me!
+* Oct 2023: University of Michigan, Ann Arbor. I had a great time meeting fellow PhD students and visiting the University of Michigan! Thanks to Professors Necmiye Ozay and Pete Seiler for hosting me. 
+* Oct 2023: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+* June 2023: IEEE International Conference on Robotics and Automation (ICRA)
+* May 2023: CPS-IoT Week The International Workshop on Perception for Safety-Critical Cyber-Physical Systems 
+* Dec 2022: National Institute of Informatics (NII), Tokyo. Thanks to Ichiro Hasuo for inviting me!
+* Oct 2022: 40th SoCal Controls Workshop 
+* Oct 2022: US-Japan Seminar on AI, Autonomy, Robotics, and Informatics 
+* Jun 2022: Robotics: Science and Systems Workshop on Infrastructure for Test and Evaluation 
+* May 2022: NASA Formal Methods Symposium 
+* Mar 2022: VehiCAL Group Meeting Talk, UC Berkeley
+* Dec 2021: Conference on Decision and Control
+* Sept. 2021: Research Seminar, Motional
+* Nov. 2020: VehiCAL Group Meeting Talk, UC Berkeley
 
 ---
 ## Preprints
