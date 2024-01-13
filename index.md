@@ -18,8 +18,8 @@ Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff]
 ## Talks
 * Nov 2023: Toyota Motor North America R&D. Toyota Research Institute, North America (TRINA). Virtual Seminar.
 * Nov 2023: Autonomous Systems Lab, Stanford University, Nov 2023. Thanks to the ASL Lab and Professor Marco Pavone for hosting me! 
-* Nov 2023: ECE Department Seminar, University of Michigan, Ann Arbor, Nov 2023.
-* Nov 2023: Intelligent Robot Motion Lab (IRoM), Princeton University, Nov 2023. I had a wonderful time visiting Princeton and meeting students at the IRoM Lab. Thanks to Professor Ani Majumdar for hosting me!
+* Nov 2023: ECE Department Seminar, University of Michigan, Ann Arbor.
+* Nov 2023: Intelligent Robot Motion Lab (IRoM), Princeton University. I had a wonderful time visiting Princeton and meeting students at the IRoM Lab. Thanks to Professor Ani Majumdar for hosting me!
 * Oct 2023: University of Michigan, Ann Arbor. I had a great time meeting fellow PhD students and visiting the University of Michigan! Thanks to Professors Necmiye Ozay and Pete Seiler for hosting me. 
 * Oct 2023: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
 * June 2023: IEEE International Conference on Robotics and Automation (ICRA)
