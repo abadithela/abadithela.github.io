@@ -1,17 +1,15 @@
-I am a final year PhD student in Control and Dynamical Systems at California Institute of Technology. I am advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). My research interests are in formal methods, robotics, verification and validation, and testing of autonomous cyber-physical systems. 
+I am a Presidential Postdoctoral Fellow at Princeton University, where I primarily work with Professor [Anirudha Majumdar](https://irom-lab.princeton.edu/majumdar/) and the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu)). I work on automated testing and policy evaluation of autonomous robotic systems. My research uses tools from systems and theory, applied statistics, formal methods, and optimization. 
 
-My PhD research is on using formal methods for Test and Evaluation (T&E), and Verification and Validation (V&V) of autonomous systems. In particular, my dissertation research is focused on:
-1) Reactive test synthesis from temporal logic specifications, and
-2) Validating perception performance with respect to system-level temporal logic specifications.
+I completed my Ph.D. in Control and Dynamical Systems in June 2024 from the California Institute of Technology, where I was advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). My dissertation research focused on using formal methods for Test and Evaluation (T&E) of autonomous robotic systems. 
 
-Before Caltech, I earned my Bachelors degree in Aerospace Engineering and Mechanics at the University of Minnesota, Twin-Cities in 2018. As an undergraduate, I was fortunate to conduct research with Professor [Peter Seiler](https://seiler.engin.umich.edu), Professor [Neera Jain](https://engineering.purdue.edu/JainResearchLab/people.html) and Professor [Austin Nash](https://www.linkedin.com/in/austin-nash-23805919a), and Professor [Ufuk Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page) and Dr. [Ivan Papusha](https://ivanpapusha.com). 
+Before Caltech, I earned my Bachelors degree in Aerospace Engineering and Mechanics at the University of Minnesota, Twin-Cities in 2018. As an undergraduate, I was fortunate to start my research journey with Professors [Peter Seiler](https://seiler.engin.umich.edu), [Neera Jain](https://engineering.purdue.edu/JainResearchLab/people.html), [Austin Nash](https://www.linkedin.com/in/austin-nash-23805919a), [Ufuk Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page), and Dr. [Ivan Papusha](https://ivanpapusha.com). 
 
 I also spent the summer of 2021 at [Motional](https://motional.com) as an Autonomy Research intern in the 
 Behavior Prediction and Planning Group under the supervision of Dr. [Eric Wolff](http://www.ericmwolff.com) and Dr. [Tung Phan-Minh](https://www.linkedin.com/in/tungmphan). At Motional, I worked on Counter-example Guided Repair of Learning-based Planners using Optimization and Bayesian inference techniques.
 
 ---
  
-<a href="https://abadithela.github.io/pdf/CV.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Email: apurva@caltech.edu
+<a href="https://abadithela.github.io/pdf/CV.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), Email: ab5832@princeton.edu
 <!-- Remove above link if you don't want to attibute -->
 
 ---
