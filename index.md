@@ -57,7 +57,7 @@ Under Review \
 ---
 ## Publications 
 [Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping](https://www.roboticsproceedings.org/rss21/p077.pdf) \
-David Snyder, Asher J. Hancock, <b>{Apurva Badithela}</b>, Emma Dixon, Patrick Miller, Rares Andrei Ambrus, Anirudha Majumdar, Masha Itkina, and Haruki Nishimura \
+David Snyder, Asher J. Hancock, <b>Apurva Badithela</b>, Emma Dixon, Patrick Miller, Rares Andrei Ambrus, Anirudha Majumdar, Masha Itkina, and Haruki Nishimura \
 Robotics: Science and Systems\
 [[paper](https://www.roboticsproceedings.org/rss21/p077.pdf), [project page](https://tri-ml.github.io/step/), [code](https://github.com/TRI-ML/sequentialized_barnard_tests)]
 
@@ -109,5 +109,6 @@ _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
 <b>\*</b>, <sup>&#x2020;</sup>: Equal contribution. 
+
 
 
