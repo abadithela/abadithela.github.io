@@ -49,7 +49,7 @@ Under Review\
 Under Review 
 
 [Flow-Based Synthesis of Reactive Tests for Discrete Decision-Making Systems with Temporal Logic Specifications](https://arxiv.org/pdf/2404.09888) \
-Josefine B. Graebener\*, <b>{Apurva S. Badithela\*</b>, Denizalp Goktas, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, and Richard M. Murray \
+Josefine B. Graebener\*, <b>Apurva S. Badithela\*</b>, Denizalp Goktas, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, and Richard M. Murray \
 Under Review \
 [[preprint](https://arxiv.org/pdf/2404.09888), [tool](https://floras.readthedocs.io/en/latest/)]]
 
@@ -109,4 +109,5 @@ _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
 <b>\*</b>, <sup>&#x2020;</sup>: Equal contribution. 
+
 
