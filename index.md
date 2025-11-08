@@ -8,32 +8,6 @@ I completed my Ph.D. in Control and Dynamical Systems in June 2024 from the Cali
 <!-- Remove above link if you don't want to attibute -->
 
 ---
-## Talks
-* Oct 2025: Princeton PRPL Group Meeting Talk. Thanks to Tom Silver for hosting me!
-* Oct 2025: Amazon Robotics Science Chat. Thanks to Yesh Dattatreya and Farokh Atashzar for hosting me!
-* Oct 2025: Ames-Burdick Group Meeting Talk. Thanks to Professor Burdick and Ames for hosting me!
-* Oct 2025: USC Lira Lab Group Seminar. Thanks to Erdem Biyik for hosting me!
-* Oct 2025: UCLA Dixit Group Meeting Seminar. Thanks to Anushri Dixit for hosting me!
-* Oct 2025: Waymo Reading Group Seminar. Thanks to Matthew O'Kelly for hosting me!
-* Nov 2023: Toyota Motor North America R&D. Toyota Research Institute, North America (TRINA). Virtual Seminar.
-* Nov 2023: Autonomous Systems Lab, Stanford University, Nov 2023.
-* Nov 2023: ECE Department Seminar, University of Michigan, Ann Arbor.
-* Nov 2023: Intelligent Robot Motion Lab (IRoM), Princeton University.
-* Oct 2023: University of Michigan, Ann Arbor.  
-* Oct 2023: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
-* June 2023: IEEE International Conference on Robotics and Automation (ICRA)
-* May 2023: CPS-IoT Week The International Workshop on Perception for Safety-Critical Cyber-Physical Systems 
-* Dec 2022: National Institute of Informatics (NII), Tokyo. Thanks to Ichiro Hasuo for inviting me!
-* Oct 2022: 40th SoCal Controls Workshop 
-* Oct 2022: US-Japan Seminar on AI, Autonomy, Robotics, and Informatics 
-* Jun 2022: Robotics: Science and Systems Workshop on Infrastructure for Test and Evaluation 
-* May 2022: NASA Formal Methods Symposium 
-* Mar 2022: VehiCAL Group Meeting Talk, UC Berkeley
-* Dec 2021: Conference on Decision and Control
-* Sept. 2021: Research Seminar, Motional
-* Nov. 2020: VehiCAL Group Meeting Talk, UC Berkeley
-
----
 ## Preprints
 [Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators](abadithela.github.io) \
 <b>Apurva Badithela</b>, David Snyder\*, Lihan Zha\*, Joseph Mikhail, Matthew O'Kelly<sup>&#x2020;</sup>, Anushri Dixit<sup>&#x2020;</sup>, Anirudha Majumdar \
@@ -102,6 +76,32 @@ Austin Nash, <b>Apurva Badithela</b>, and Neera Jain \
 _Journal of Applied Energy, 2017_ \
 [[paper](https://engineering.purdue.edu/JainResearchLab/pdf/dynamic-modeling-sensible-thermal-energy-storage-immersed-coil-heat-exchanger.pdf)]
 
+---
+## Talks
+* Oct 2025: Princeton PRPL Group Meeting Talk. Thanks to Tom Silver for hosting me!
+* Oct 2025: Amazon Robotics Science Chat. Thanks to Yesh Dattatreya and Farokh Atashzar for hosting me!
+* Oct 2025: Ames-Burdick Group Meeting Talk. Thanks to Professor Burdick and Ames for hosting me!
+* Oct 2025: USC Lira Lab Group Seminar. Thanks to Erdem Biyik for hosting me!
+* Oct 2025: UCLA Dixit Group Meeting Seminar. Thanks to Anushri Dixit for hosting me!
+* Oct 2025: Waymo Reading Group Seminar. Thanks to Matthew O'Kelly for hosting me!
+* Nov 2023: Toyota Motor North America R&D. Toyota Research Institute, North America (TRINA). Virtual Seminar.
+* Nov 2023: Autonomous Systems Lab, Stanford University, Nov 2023.
+* Nov 2023: ECE Department Seminar, University of Michigan, Ann Arbor.
+* Nov 2023: Intelligent Robot Motion Lab (IRoM), Princeton University.
+* Oct 2023: University of Michigan, Ann Arbor.  
+* Oct 2023: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+* June 2023: IEEE International Conference on Robotics and Automation (ICRA)
+* May 2023: CPS-IoT Week The International Workshop on Perception for Safety-Critical Cyber-Physical Systems 
+* Dec 2022: National Institute of Informatics (NII), Tokyo. Thanks to Ichiro Hasuo for inviting me!
+* Oct 2022: 40th SoCal Controls Workshop 
+* Oct 2022: US-Japan Seminar on AI, Autonomy, Robotics, and Informatics 
+* Jun 2022: Robotics: Science and Systems Workshop on Infrastructure for Test and Evaluation 
+* May 2022: NASA Formal Methods Symposium 
+* Mar 2022: VehiCAL Group Meeting Talk, UC Berkeley
+* Dec 2021: Conference on Decision and Control
+* Sept. 2021: Research Seminar, Motional
+* Nov. 2020: VehiCAL Group Meeting Talk, UC Berkeley
+
 ## Workshop Papers
 [Minimally Constrained Testing for Autonomy with Temporal Logic Specifications](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf) \
 <b>Apurva Badithela\*</b>, Josefine Graebener\*, and Richard M. Murray \
@@ -110,6 +110,7 @@ _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
 <b>\*</b>, <sup>&#x2020;</sup>: Equal contribution. 
+
 
 
 
