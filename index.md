@@ -1,4 +1,4 @@
-I am a Presidential Postdoctoral Fellow at Princeton University, woeking on evaluation and testing of robot foundation models with Professor [Anirudha Majumdar](https://irom-lab.princeton.edu/majumdar/) and the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu)). Broadly, I am interested in rigorous test and evaluation frameworks for robotics to build reliable, robust, and safe systems.  
+I am a Presidential Postdoctoral Fellow at Princeton University, working on evaluation and testing of robot foundation models with Professor [Anirudha Majumdar](https://irom-lab.princeton.edu/majumdar/) and the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu)). Broadly, I am interested in rigorous test and evaluation frameworks for robotics to build reliable, robust, and safe systems.  
 
 I completed my Ph.D. in Control and Dynamical Systems in June 2024 from the California Institute of Technology, where I was advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). I received a Bachelors degree in Aerospace Engineering and Mechanics at the University of Minnesota, Twin-Cities in 2018. 
 
@@ -110,6 +110,7 @@ _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
 <b>\*</b>, <sup>&#x2020;</sup>: Equal contribution. 
+
 
 
 
