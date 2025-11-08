@@ -12,7 +12,7 @@ I completed my Ph.D. in Control and Dynamical Systems in June 2024 from the Cali
 [Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators](abadithela.github.io) \
 <b>Apurva Badithela</b>, David Snyder\*, Lihan Zha\*, Joseph Mikhail, Matthew O'Kelly<sup>&#x2020;</sup>, Anushri Dixit<sup>&#x2020;</sup>, Anirudha Majumdar \
 In Preparation\
-**Best Paper Award** at CoRL 2025 Workshop on Eval\&Deploy. \
+**Best Paper Award** at CoRL 2025 Workshop on Eval&Deploy. \
 [[preprint](https://arxiv.org/pdf/2510.04354)]
 
 [Guiding Data Collection via Factored Scaling Curves](https://arxiv.org/abs/2505.07728) \
@@ -110,6 +110,7 @@ _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
 <b>\*</b>, <sup>&#x2020;</sup>: Equal contribution. 
+
 
 
 
