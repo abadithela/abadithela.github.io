@@ -1,3 +1,10 @@
+/* Widen orderedlist / jekyll-theme-minimal layout */
+.wrapper {
+  max-width: 1200px;   /* try 1100–1300px */
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 /* Reverse ordered list helper (works even if <ol reversed> is ignored) */
 ol.rev {
   list-style: none;
