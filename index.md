@@ -10,7 +10,7 @@ I completed my Ph.D. in Control and Dynamical Systems in June 2024 from the Cali
 <hr>
 
 <h2>Preprints</h2>
-<ol class="rev" style="--start: 16">
+<ol class="rev" style="--start: 17">
  <li>
   <a href="https://abadithela.github.io">Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison</a><br>
     David Snyder, <strong>Apurva Badithela</strong>, Nikolai Matni, Anirudha Majumdar, Masha Itkina, Haruki Nishimura, George J. Pappas<br>
@@ -58,7 +58,7 @@ Under Review\
 </li> -->
 ---
 ## Publications
-<ol class="rev" style="--start: 12">
+<ol class="rev" style="--start: 13">
   <li>
     <a href="https://suresim-robot-eval.github.io">Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators</a><br>
     <strong>Apurva Badithela</strong>, David Snyder*, Lihan Zha*, Joseph Mikhail, Matthew O&rsquo;Kelly<sup>&#x2020;</sup>,
@@ -246,6 +246,7 @@ _Journal of Applied Energy, 2017_ \
 </ol> -->
 ---
 ## Talks
+* Dec 2025: RGSO Seminar, University of Delaware. Thanks to Gustavo Cardona and the Robotics Grad Student Organization for hosting me!
 * Oct 2025: Princeton PRPL Group Meeting Talk. Thanks to Tom Silver for hosting me!
 * Oct 2025: Amazon Robotics Science Chat. Thanks to Yesh Dattatreya and Farokh Atashzar for hosting me!
 * Oct 2025: Ames-Burdick Group Meeting Talk. Thanks to Professor Burdick and Ames for hosting me!
@@ -278,6 +279,7 @@ _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
 <b>\*</b>, <sup>&#x2020;</sup>: Equal contribution. 
+
 
 
 
