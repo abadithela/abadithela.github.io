@@ -1,0 +1,22 @@
+/* Reverse ordered list helper (works even if <ol reversed> is ignored) */
+ol.rev {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  counter-reset: item var(--start);
+}
+
+ol.rev > li {
+  position: relative;
+  padding-left: 2.6em;
+  margin: 0 0 0.9em 0;
+}
+
+ol.rev > li::before {
+  counter-increment: item -1;
+  content: counter(item) ".";
+  position: absolute;
+  left: 0;
+  width: 2.3em;
+  text-align: right;
+}
