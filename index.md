@@ -9,11 +9,19 @@ I completed my Ph.D. in Control and Dynamical Systems in June 2024 from the Cali
 
 ---
 ## Preprints
-[Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators](abadithela.github.io) \
-<b>Apurva Badithela</b>, David Snyder\*, Lihan Zha\*, Joseph Mikhail, Matthew O'Kelly<sup>&#x2020;</sup>, Anushri Dixit<sup>&#x2020;</sup>, Anirudha Majumdar \
-In Preparation\
-**Best Paper Award** at CoRL 2025 Workshop on Eval&Deploy. \
-[[preprint](https://arxiv.org/pdf/2510.04354)]
+[Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison](https://abadithela.github.io) \
+David Snyder, <b>Apurva Badithela</b>, Nikolai Matni, Anirudha Majumdar, Masha Itkina, Haruki Nishimura, George J.
+Pappas \
+Under Review \
+
+[PlayWorld: Learning Robot World Models from Autonomous Play](https://abadithela.github.io) \
+Tenny Yin, Zhiting Mei, Zhonghe Zheng, Miyu Yamane, David Wang, Jade Sceats, Samuel M Bateman, Lihan Zha, <b>Apurva Badithela</b>, Ola Shorinwa, Anirudha Majumdar
+Under Review \
+
+[Video Models in Robotics: Applications, Challenges, Future Directions](https://arxiv.org/pdf/2601.07823) \
+Zhiting Mei\*, Tenny Yin\*, Ola Shorinwa\*, <b>Apurva Badithela</b>, Zhonghe Zheng, Joseph Bruno, Madison Bland, Lihan Zha, Asher Hancock, Jaime Fernández Fisac, Philip Dames, Anirudha Majumdar
+Under Review\
+[[preprint](https://arxiv.org/pdf/2601.07823)]
 
 [Guiding Data Collection via Factored Scaling Curves](https://arxiv.org/abs/2505.07728) \
 Lihan Zha, <b>Apurva Badithela</b>, Michael Zhang, Justin Lidard, Jeremy Bao, Emily Zhou, David Snyder, Allen Z Ren, Dhruv Shah, Anirudha Majumdar \
@@ -22,6 +30,13 @@ Under Review\
 
 ---
 ## Publications 
+[Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators](abadithela.github.io) \
+<b>Apurva Badithela</b>, David Snyder\*, Lihan Zha\*, Joseph Mikhail, Matthew O'Kelly<sup>&#x2020;</sup>, Anushri Dixit<sup>&#x2020;</sup>, Anirudha Majumdar \
+**Best Paper Award** at CoRL 2025 Workshop on Eval&Deploy. \
+**Oral** at SAFE-ROL: 2nd Workshop on Safe and Robust Robot Learning for Operation in the Real World at CoRL 2025. \
+IEEE International Conference on Robotics and Automation, 2026.\
+[[preprint](https://arxiv.org/pdf/2510.04354), [project page](https://suresim-robot-eval.github.io)]
+
 [Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping](https://www.roboticsproceedings.org/rss21/p077.pdf) \
 David Snyder, Asher J. Hancock, <b>Apurva Badithela</b>, Emma Dixon, Patrick Miller, Rares Andrei Ambrus, Anirudha Majumdar, Masha Itkina, and Haruki Nishimura \
 Robotics: Science and Systems\
@@ -34,7 +49,7 @@ ACM Transactions on Cyber-Physical Systems (T-CPS), 2025
 [Flow-Based Synthesis of Reactive Tests for Discrete Decision-Making Systems with Temporal Logic Specifications](https://arxiv.org/pdf/2404.09888) \
 Josefine B. Graebener\*, <b>Apurva S. Badithela\*</b>, Denizalp Goktas, Wyatt Ubellacker, Eric V. Mazumdar, Aaron D. Ames, and Richard M. Murray \
 IEEE Open Journal of Control Systems (OJ-CSYS), 2025
-[[preprint](https://arxiv.org/pdf/2404.09888), [tool](https://floras.readthedocs.io/en/latest/)]]
+[[preprint](https://arxiv.org/pdf/2404.09888), [tool](https://floras.readthedocs.io/en/latest/)]
 
 [Pacti: Scaling Assume-Guarantee Reasoning for System Analysis and Design](https://arxiv.org/pdf/2303.17751.pdf) \
 Inigo Incer, <b>Apurva Badithela</b>, Josefine Graebener, Piergiuseppe Mallozzi, Ayush Pandey, Sheng-Jung Yu, Albert Beneveniste, Benoit Caillud, Richard M. Murray, Alberto Sangiovanni-Vincentelli, and Sanjit Seshia \
@@ -110,6 +125,7 @@ _Robotics: Science and Systems (R:SS), 2022_ \
 [[paper](http://raaslab.org/rss2022/assets/contributed_papers/RSS2022_Badithela_et_al.pdf)]
 
 <b>\*</b>, <sup>&#x2020;</sup>: Equal contribution. 
+
 
 
 
