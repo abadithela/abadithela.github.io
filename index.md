@@ -11,11 +11,7 @@ I completed my Ph.D. in Control and Dynamical Systems in June 2024 from the Cali
 
 <h2>Preprints</h2>
 <ol class="rev" style="--start: 17">
- <li>
-  <a href="https://abadithela.github.io">Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison</a><br>
-    David Snyder, <strong>Apurva Badithela</strong>, Nikolai Matni, Anirudha Majumdar, Masha Itkina, Haruki Nishimura, George J. Pappas<br>
-    <em>Under Review</em>
- </li>
+ 
 
 <li>
  <a href="https://abadithela.github.io">PlayWorld: Learning Robot World Models from Autonomous Play</a><br>
@@ -60,6 +56,13 @@ Under Review\
 ## Publications
 <ol class="rev" style="--start: 13">
   <li>
+  <a href="https://abadithela.github.io">Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison</a><br>
+    David Snyder, <strong>Apurva Badithela</strong>, Nikolai Matni, Anirudha Majumdar, Masha Itkina, Haruki Nishimura, George J. Pappas<br>
+    <em>Robotics: Science and Systems (RSS) 2026.</em>
+    [ <a href="https://arxiv.org/pdf/2603.13616">preprint</a>,
+      <a href="https://das-penn.github.io/sequential_evaluation_website/">project page</a> ]
+ </li>
+  <li>
     <a href="https://suresim-robot-eval.github.io">Reliable and Scalable Robot Policy Evaluation with Imperfect Simulators</a><br>
     <strong>Apurva Badithela</strong>, David Snyder*, Lihan Zha*, Joseph Mikhail, Matthew O&rsquo;Kelly<sup>&#x2020;</sup>,
     Anushri Dixit<sup>&#x2020;</sup>, Anirudha Majumdar<br>
@@ -74,7 +77,7 @@ Under Review\
     <a href="https://www.roboticsproceedings.org/rss21/p077.pdf">Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping</a><br>
     David Snyder, Asher J. Hancock, <strong>Apurva Badithela</strong>, Emma Dixon, Patrick Miller, Rares Andrei Ambrus,
     Anirudha Majumdar, Masha Itkina, Haruki Nishimura<br>
-    <em>Robotics: Science and Systems (RSS).</em><br>
+    <em>Robotics: Science and Systems (RSS) 2025.</em><br>
     [ <a href="https://www.roboticsproceedings.org/rss21/p077.pdf">paper</a>,
       <a href="https://tri-ml.github.io/step/">project page</a>,
       <a href="https://github.com/TRI-ML/sequentialized_barnard_tests">code</a> ]
