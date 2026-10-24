@@ -1,10 +1,10 @@
-I am a Presidential Postdoctoral Fellow at Princeton University, working on evaluation and testing of robot foundation models with Professor [Anirudha Majumdar](https://irom-lab.princeton.edu/majumdar/) and the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu)). Broadly, I am interested in rigorous test and evaluation frameworks for robotics to build reliable, robust, and safe systems.  
+Hi! I am a Research Scientist in the Robotics team at Google DeepMind, where I build generalizable, safe, and reliable robot policies.
 
-I completed my Ph.D. in Control and Dynamical Systems in June 2024 from the California Institute of Technology, where I was advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). I received a Bachelors degree in Aerospace Engineering and Mechanics at the University of Minnesota, Twin-Cities in 2018. 
+Previously, I was a Presidential Postdoctoral Fellow at Princeton University, where I worked on reliable evaluation of robot foundation models with Professor [Anirudha Majumdar](https://irom-lab.princeton.edu/majumdar/) and the Intelligent Robot Motion Lab ([IRoM](https://irom-lab.princeton.edu)). I received my Ph.D. in Control and Dynamical Systems in June 2024 from the California Institute of Technology, where I was advised by Professor [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). Prior to that, I received a Bachelors degree in Aerospace Engineering at the University of Minnesota, Twin-Cities in 2018.
 
 ---
  
-<a href="https://abadithela.github.io/pdf/CV.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), email: ab5832@princeton.edu
+<a href="https://abadithela.github.io/pdf/CV.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=bsyOi1YAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/apurva-badithela-6a1040115), [Github](https://github.com/abadithela), email: apurvasri@google.com
 <!-- Remove above link if you don't want to attibute -->
 
 <hr>
